@@ -32,5 +32,5 @@ Screenshot below shows the Qualtrics "Collaborate on Project" panel with Jae Jun
 
 ## Appendix
 
-- GitHub Repo: [link here]
-- GitHub Pages: [link here]
+- GitHub Repo: [https://github.com/jukedz/M01-1-Qualtrics-Survey](https://github.com/jukedz/M01-1-Qualtrics-Survey)
+- GitHub Pages: [https://jukedz.github.io/M01-1-Qualtrics-Survey/Qualtrics_M01-1_Designing_a_Survey-Julie.html](https://jukedz.github.io/M01-1-Qualtrics-Survey/Qualtrics_M01-1_Designing_a_Survey-Julie.html)
