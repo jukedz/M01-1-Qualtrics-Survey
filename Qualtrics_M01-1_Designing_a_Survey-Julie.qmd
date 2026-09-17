@@ -1,0 +1,36 @@
+---
+title: "Qualtrics M01-1: Designing a Survey"
+subtitle: "Rough Draft & Sharing Qualtrics"
+author: "Julie Diaz"
+date: today
+format:
+  html:
+    embed-resources: true
+    toc: true
+    css: styles.css
+---
+
+## Proof of Sharing with Jae Jung
+
+Screenshot below shows the Qualtrics "Collaborate on Project" panel with Jae Jung (Bronco ID: jmjung) added with full edit/view rights.
+
+![Share proof](images/share-proof.png)
+
+## Rough Draft of the Qualtrics Survey
+
+### Beginning of Survey
+
+![Beginning](images/beginning.png)
+
+### Middle of Survey
+
+![Middle](images/middle.png)
+
+### End of Survey
+
+![End](images/end.png)
+
+## Appendix
+
+- GitHub Repo: [link here]
+- GitHub Pages: [link here]

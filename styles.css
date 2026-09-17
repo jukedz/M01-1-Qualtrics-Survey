@@ -1,0 +1,65 @@
+:root {
+  --maroon: #7A1F2B;
+  --maroon-dark: #5A1620;
+  --maroon-light: #F4E6E8;
+}
+
+body {
+  font-family: -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+}
+
+h1.title {
+  color: var(--maroon);
+  border-bottom: 4px solid var(--maroon);
+  padding-bottom: 0.3em;
+}
+
+.subtitle {
+  color: var(--maroon-dark);
+  font-style: italic;
+}
+
+h2 {
+  color: var(--maroon);
+  border-bottom: 2px solid var(--maroon-light);
+  padding-bottom: 0.2em;
+  margin-top: 1.8em;
+}
+
+h3 {
+  color: var(--maroon-dark);
+}
+
+a {
+  color: var(--maroon);
+}
+
+a:hover {
+  color: var(--maroon-dark);
+}
+
+#TOC {
+  background-color: var(--maroon-light);
+  border-left: 4px solid var(--maroon);
+  padding: 1em;
+  border-radius: 4px;
+}
+
+#TOC .toc-active {
+  color: var(--maroon);
+  font-weight: bold;
+}
+
+img {
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+  margin: 1em 0;
+  max-width: 100%;
+}
+
+figcaption, .figure-caption {
+  color: var(--maroon-dark);
+  font-size: 0.9em;
+  text-align: center;
+}
